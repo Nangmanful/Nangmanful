@@ -15,6 +15,7 @@
   </tr>
 </table>
 
+---
 
 문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.  
 AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등  
@@ -25,8 +26,8 @@ AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 
 ## 🛠 Tech Stack
 
 ### **Languages**
-- Python, Kotlin, JavaScript  
-- SQL (PostgreSQL, MySQL)
+- C, C++, Java, Python, Kotlin, JavaScript  
+- SQL (PostgreSQL, MySQL, MariaDB)
 
 ### **Backend**
 - FastAPI, Spring Boot  

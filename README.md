@@ -2,7 +2,7 @@
   <tr>
     <td valign="top">
       <h1 style="margin: 0;">
-        낭만 가득한 인생,<br/>개발자 김창규입니다.
+        낭만 가득한 인생<br/>개발자 김창규입니다
       </h1>
       <p style="margin: 4px 0 0 0; line-height: 1.4;">
         DGIST 학부재학, 컴퓨터공학 트랙<br/>

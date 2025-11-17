@@ -1,6 +1,6 @@
 <div
   style="
-    max-width: 900px;
+    max-width: 850px;
     margin: 0 auto;
     padding: 24px;
     border: 1px solid #e1e4e8;
@@ -8,20 +8,21 @@
     box-sizing: border-box;
   "
 >
-  <!-- 상단: 사진 + 소개 텍스트 -->
+  <!-- 상단 레이아웃 -->
   <div style="display: flex; align-items: flex-start;">
-    <div style="margin-right: 24px;">
+    <div style="margin-right: 20px;">
       <img
         src="3616.jpeg"
         alt="profile"
         style="
-          max-width: 220px;
+          max-width: 140px;
           height: auto;
           border-radius: 8px;
           display: block;
         "
       />
     </div>
+
     <div>
       <h1 style="margin: 0 0 16px 0; font-size: 26px;">
         낭만 가득한 인생,<br />개발자 김창규입니다.

@@ -63,27 +63,36 @@
 
 <div align="left">
 
+<!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
 <br>
 
+<!-- Frameworks / Backend -->
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
+<br>
+
+<!-- Databases -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 <br>
 
+<!-- Infra -->
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+<br>
+
+<!-- AI / LLM -->
 <img src="https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/LLM-000000?logo=openai&logoColor=white">
-<br>
 
 </div>
-
-<br>
 
 ---
 

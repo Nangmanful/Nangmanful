@@ -1,81 +1,156 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&&height=180)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&&&fontAlignY=20&height=100&lines=Welcome+to+Nangmanful's+GitHub!%20%20👋)](https://git.io/typing-svg)
+
+---
+
+# 🙍‍♂️ Introduce
+
 <table width="100%">
   <tr>
     <td valign="top">
-      <h1 style="margin: 0;">
-        낭만 가득한 인생<br/>개발자 김창규입니다
-      </h1>
-      <p style="margin: 4px 0 0 0; line-height: 1.4;">
-        DGIST 학부 재학, 컴퓨터공학 트랙<br/>
-        SKALA 2기 이수
+      <h2 style="margin: 0;">
+        낭만 가득한 인생,<br/>개발자 김창규입니다.
+      </h2>
+      <p style="margin: 6px 0 0 0; line-height: 1.4;">
+        DGIST 20학번 컴퓨터공학 트랙<br/>
+        SKALA 2기 이수<br/>
       </p>
     </td>
-    <td valign="top" align="right" width="140">
+    <td valign="top" align="right" width="150">
       <img src="3616.jpeg" alt="profile" width="120" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다. <br/>
-인프라, AI 에이전트, 백엔드, 프론트, 모바일 등등
-필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
+<div align="left">
 
----
+🎓 **Background**  
+&nbsp;&nbsp;&nbsp;&nbsp;• DGIST Computer Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;• AI-Native Developer 지향
 
-## 🛠 Tech Stack
+💻️ **Position - AI Service / Multi-Agent / Backend / Mobile**  
+&nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계  
+&nbsp;&nbsp;&nbsp;&nbsp;• LangGraph 멀티에이전트 파이프라인 개발  
+&nbsp;&nbsp;&nbsp;&nbsp;• FastAPI / Spring Boot 기반 REST API  
+&nbsp;&nbsp;&nbsp;&nbsp;• React Native / Android 개발
 
-### **Languages**
-- C, C++, Java, Python, Kotlin, JavaScript  
-- SQL (PostgreSQL, MySQL, MariaDB)
+💡 **Interest**  
+&nbsp;&nbsp;&nbsp;&nbsp;• 멀티에이전트 아키텍처  
+&nbsp;&nbsp;&nbsp;&nbsp;• 기후 리스크 모델링 & 데이터 처리  
+&nbsp;&nbsp;&nbsp;&nbsp;• Android / Kotlin  
+&nbsp;&nbsp;&nbsp;&nbsp;• Backend & Infra (Docker / Linux / DB)
 
-### **Backend**
-- FastAPI, Spring Boot  
-- JWT 인증, REST API 설계  
-- Docker 기반 배포 경험
+📒 **DEV Log (개발 기록)**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Notion 정리 중  
+<br>
 
-### **Frontend / App**
-- React Native  
-- 기본적인 Compose/Kotlin 경험
+📞 **Contact**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Email  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:89606590659@naver.com">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+</a>
 
-### **AI / Data**
-- LLM 기반 서비스 구성  
-- LangGraph / LangChain 활용 멀티에이전트 설계  
-- sklearn, PyTorch 기본 모델링
+</div>
 
-### **DevOps**
-- Docker, GitHub Actions  
-- AWS RDS(MySQL) 연동 경험  
-- Git branching 전략 운영
-
----
-
-## 📌 Experience & Projects
-
-### 🔹 Multi-Agent Climate Risk Platform (ON-DO / Polaris)
-- LangGraph 기반 hazard/exposure/vulnerability 파이프라인 구성  
-- KMA/ERA5/CMIP6 등 외부 기후 데이터 처리  
-- 리스크 시뮬레이션 구조 및 수식 설계  
-- FastAPI 기반 백엔드 + Docker 환경 구성
-
-### 🔹 AI Marketing Assistant
-- 소상공인 마케팅 자동화 에이전트 설계  
-- TrendAgent / CreativeAgent / GuardrailAgent 모듈 구조화  
-- 외부 API(YouTube Data API 등) 연동  
-- 콘텐츠 생성·분석 자동화 파이프라인 개발
-
-### 🔹 DGLife App (React Native)
-- 로그인·회원가입(JWT) 인증 플로우 구현  
-- Spring Boot 백엔드 연동  
-- SharedPreferences 기반 토큰 관리  
-- UI/UX 및 화면 라우팅 구조 설계
-
-### 🔹 FireEnv 강화학습 환경 디버깅 & Multi-Agent 전환
-- PettingZoo Parallel API 기반 멀티에이전트 Env 구축  
-- reward/관측/step/reset 로직 직접 수정  
-- RLlib PPO 학습 및 체크포인트 복구 실험
+<br>
 
 ---
 
-## 📫 Contact
-Email: 89606590659@naver.com
+## 🍀 Tech Stack
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+<br>
+
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<br>
+
+<img src="https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LLM-000000?logo=openai&logoColor=white">
+<br>
+
+</div>
+
+<br>
+
+---
+
+## 📚 Experience
+
+<div align="left">
+
+### 🔹 **ON-DO / Polaris – Multi-Agent Climate Risk Platform**
+&nbsp;&nbsp;&nbsp;&nbsp;• LangGraph 기반 Hazard / Exposure / Vulnerability 파이프라인 설계  
+&nbsp;&nbsp;&nbsp;&nbsp;• KMA / ERA5 / CMIP6 등 기후 데이터 처리  
+&nbsp;&nbsp;&nbsp;&nbsp;• AAL, damage rate 등 물리적 리스크 모델링  
+&nbsp;&nbsp;&nbsp;&nbsp;• FastAPI 백엔드 구축 및 Docker 배포  
+
+### 🔹 **AI Marketing Assistant**
+&nbsp;&nbsp;&nbsp;&nbsp;• 소상공인 대상 자동 콘텐츠 생성 에이전트 개발  
+&nbsp;&nbsp;&nbsp;&nbsp;• TrendAgent / GuardrailAgent / ContentAgent 구조  
+&nbsp;&nbsp;&nbsp;&nbsp;• YouTube · SNS 트렌드 기반 마케팅 자동화  
+
+### 🔹 **DGLife App (React Native + Spring Boot)**
+&nbsp;&nbsp;&nbsp;&nbsp;• JWT 로그인/회원가입 플로우 구현  
+&nbsp;&nbsp;&nbsp;&nbsp;• Android UI/UX 구조 설계  
+&nbsp;&nbsp;&nbsp;&nbsp;• 백엔드 연동 및 토큰 관리  
+
+### 🔹 **FireEnv – Multi-Agent RL Environment**
+&nbsp;&nbsp;&nbsp;&nbsp;• PettingZoo ParallelEnv로 멀티에이전트 전환  
+&nbsp;&nbsp;&nbsp;&nbsp;• reward/observation/step 로직 직접 수정  
+&nbsp;&nbsp;&nbsp;&nbsp;• RLlib PPO 학습 및 checkpoint 복구  
+
+### 🔹 **Autonomous Robot Vending / Guide Project**
+&nbsp;&nbsp;&nbsp;&nbsp;• 사업 구조 · 향후 확장성 기획  
+&nbsp;&nbsp;&nbsp;&nbsp;• 로봇 커스터마이징 · 데이터 기반 전략 설계  
+
+</div>
+
+<br>
+
+---
+
+## 🏆 Awards
+
+<div align="left">
+
+- SKALA 내부 데모데이 다수 발표  
+- DGIST 팀 프로젝트 장려  
+
+</div>
+
+<br>
+
+---
+
+## 🫧 My Github
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNangmanful&count_bg=%239ED0FF&title_bg=%23555555&icon=reactos.svg&icon_color=%239ED0FF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
+<div align="center">
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nangmanful&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nangmanful&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" />
+  </a>
+</div>
+
+<br>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&&color=6994CDEE&height=180&section=footer&fontSize=50&animation=fadeIn&)

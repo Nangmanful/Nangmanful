@@ -3,6 +3,14 @@
 문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.  
 AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등  
 필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
+<p align="center">
+  <img 
+    src="3616.jpeg"
+    alt="profile"
+    width="160"
+    style="border-radius: 50%; object-fit: cover;"
+  />
+</p>
 
 ---
 

@@ -1,27 +1,15 @@
 <table border="1" cellspacing="0" cellpadding="16" width="100%">
   <tr>
-    <td>
-
-      <table width="100%">
-        <tr>
-          <!-- 왼쪽 텍스트 -->
-          <td valign="top">
-            <h1>
-              낭만 가득한 인생,<br />개발자 김창규입니다.
-            </h1>
-            <p>
-              문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.<br />
-              AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등<br />
-              필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
-            </p>
-          </td>
-
-          <!-- 오른쪽 이미지 -->
-          <td width="160" align="right" valign="top">
-            <img src="3616.jpeg" alt="profile" width="140" />
-          </td>
-        </tr>
-      </table>
+    <!-- 왼쪽: 제목 + 소개 -->
+    <td valign="top">
+      <h1>
+        낭만 가득한 인생,<br />개발자 김창규입니다.
+      </h1>
+      <p>
+        문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.<br />
+        AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등<br />
+        필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
+      </p>
 
       <hr />
 
@@ -102,7 +90,11 @@
         Email:
         <a href="mailto:89606590659@naver.com">89606590659@naver.com</a>
       </p>
+    </td>
 
+    <!-- 오른쪽: 이미지 -->
+    <td width="160" align="right" valign="top">
+      <img src="3616.jpeg" alt="profile" width="140" />
     </td>
   </tr>
 </table>

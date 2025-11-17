@@ -1,6 +1,6 @@
 <div
   style="
-    max-width: 850px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 24px;
     border: 1px solid #e1e4e8;
@@ -8,9 +8,28 @@
     box-sizing: border-box;
   "
 >
-  <!-- 상단 레이아웃 -->
-  <div style="display: flex; align-items: flex-start;">
-    <div style="margin-right: 20px;">
+  <!-- 상단: 텍스트 왼쪽 + 이미지 오른쪽 -->
+  <div
+    style="
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    "
+  >
+    <!-- 왼쪽 텍스트 -->
+    <div style="flex: 1; padding-right: 20px;">
+      <h1 style="margin: 0 0 16px 0; font-size: 26px;">
+        낭만 가득한 인생,<br />개발자 김창규입니다.
+      </h1>
+      <p style="margin: 0; line-height: 1.6;">
+        문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.<br />
+        AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등<br />
+        필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
+      </p>
+    </div>
+
+    <!-- 오른쪽 이미지 -->
+    <div style="flex-shrink: 0;">
       <img
         src="3616.jpeg"
         alt="profile"
@@ -21,17 +40,6 @@
           display: block;
         "
       />
-    </div>
-
-    <div>
-      <h1 style="margin: 0 0 16px 0; font-size: 26px;">
-        낭만 가득한 인생,<br />개발자 김창규입니다.
-      </h1>
-      <p style="margin: 0; line-height: 1.6;">
-        문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.<br />
-        AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등<br />
-        필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
-      </p>
     </div>
   </div>
 
@@ -89,9 +97,9 @@
   <h3>🔹 AI Marketing Assistant</h3>
   <ul>
     <li>소상공인 마케팅 자동화 에이전트 설계</li>
-    <li>TrendAgent / CreativeAgent / GuardrailAgent 등 모듈 구조화</li>
+    <li>TrendAgent / CreativeAgent / GuardrailAgent 모듈 설계</li>
     <li>외부 API(YouTube Data API 등) 연동</li>
-    <li>콘텐츠 생성, 분석 자동화 파이프라인 개발</li>
+    <li>콘텐츠 생성·분석 자동화 파이프라인 개발</li>
   </ul>
 
   <h3>🔹 DGLife App (React Native)</h3>
@@ -99,13 +107,13 @@
     <li>로그인·회원가입(JWT) 인증 플로우 구현</li>
     <li>Spring Boot 백엔드 연동</li>
     <li>SharedPreferences 기반 토큰 관리</li>
-    <li>기본 UI/UX 및 화면 라우팅 구조 설계</li>
+    <li>UI/UX 및 화면 라우팅 구조 설계</li>
   </ul>
 
   <h3>🔹 FireEnv 강화학습 환경 디버깅 &amp; Multi-Agent 전환</h3>
   <ul>
     <li>PettingZoo Parallel API 기반 멀티에이전트 Env 구축</li>
-    <li>reward 구조·관측 공간·step/reset 로직 직접 수정</li>
+    <li>reward/관측/step/reset 로직 직접 수정</li>
     <li>RLlib PPO 학습 및 체크포인트 복구 실험</li>
   </ul>
 

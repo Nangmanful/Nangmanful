@@ -12,15 +12,7 @@
         필요한 기술은 구분 없이 파고들어 실제로 동작하는 형태로 만듭니다.
       </p>
     </td>
-    <td style="width: 200px; text-align: center;">
-      <img
-        src="3616.jpeg"
-        alt="profile"
-        width="160"
-        height="160"
-        style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;"
-      />
-    </td>
+    </td> <td style="width: 200px; text-align: center;"> <img src="3616.jpeg" alt="profile" width="160" height="160" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;" /> </td>
   </tr>
 </table>
 

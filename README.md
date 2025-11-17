@@ -141,25 +141,3 @@
 </div>
 
 <br>
-
----
-
-## 🫧 My Github
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNangmanful&count_bg=%239ED0FF&title_bg=%23555555&icon=reactos.svg&icon_color=%239ED0FF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-
-<div align="center">
-  <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nangmanful&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nangmanful&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" />
-  </a>
-</div>
-
-<br>
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&&color=6994CDEE&height=180&section=footer&fontSize=50&animation=fadeIn&)

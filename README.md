@@ -4,12 +4,17 @@
       <h1 style="margin: 0;">
         낭만 가득한 인생,<br/>개발자 김창규입니다.
       </h1>
+      <p style="margin: 4px 0 0 0; line-height: 1.4;">
+        DGIST 20학번 컴퓨터공학 트랙<br/>
+        SKALA 2기 이수
+      </p>
     </td>
     <td valign="top" align="right" width="140">
       <img src="3616.jpeg" alt="profile" width="120" />
     </td>
   </tr>
 </table>
+
 
 문제를 구조로 재정의하고, 직접 구현해 결과를 만들어내는 개발자입니다.  
 AI 서비스, 멀티에이전트 시스템, 모바일 앱, 백엔드, 데이터 파이프라인 등  

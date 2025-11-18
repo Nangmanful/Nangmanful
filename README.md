@@ -148,7 +148,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Nangmanful&label=Profile%20Views&color=9ED0FF&style=flat)
 
 <br>
 
@@ -160,6 +159,9 @@
 </div>
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=Nangmanful&label=Profile%20Views&color=9ED0FF&style=flat)
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&&color=6994CDEE&height=180&section=footer&fontSize=50&animation=fadeIn&)

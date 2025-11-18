@@ -148,7 +148,7 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nangmanful&left_color=gray&right_color=9ED0FF)
+![](https://komarev.com/ghpvc/?username=Nangmanful&label=Profile%20Views&color=9ED0FF&style=flat)
 
 <br>
 

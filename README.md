@@ -148,7 +148,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nangmanful&count_bg=%239ED0FF&title_bg=%23555555&icon=reactos.svg&icon_color=%239ED0FF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Nangmanful&left_color=gray&right_color=9ED0FF)
 
 <br>
 

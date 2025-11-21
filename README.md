@@ -121,9 +121,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• reward/observation/step 로직 직접 수정  
 &nbsp;&nbsp;&nbsp;&nbsp;• RLlib PPO 학습 및 checkpoint 복구  
 
-### 🔹 **Autonomous Robot Vending / Guide Project**
-&nbsp;&nbsp;&nbsp;&nbsp;• 사업 구조 · 향후 확장성 기획  
-&nbsp;&nbsp;&nbsp;&nbsp;• 로봇 커스터마이징 · 데이터 기반 전략 설계  
+### 🔹 **DGIST 2024 UGRP Size Aware VTON**
+&nbsp;&nbsp;&nbsp;&nbsp;• SA VTON(사이즈 조절 VTON) 개발  
+&nbsp;&nbsp;&nbsp;&nbsp;• Warping module 개발, Input Layer 수정
 
 </div>
 
@@ -135,8 +135,8 @@
 
 <div align="left">
 
-- SKALA 내부 데모데이 다수 발표  
-- DGIST 팀 프로젝트 장려  
+- SKALA 프로젝트 다수 발표 
+- DGIST 2024 UGRP 활동 우수상 수상
 
 </div>
 

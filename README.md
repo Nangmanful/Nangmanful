@@ -135,7 +135,7 @@
 
 <div align="left">
 
-- SKALA 프로젝트 다수 발표 
+- SKALA AI 서비스 프로젝트 우수
 - DGIST 2024 UGRP 활동 우수상 수상
 
 </div>

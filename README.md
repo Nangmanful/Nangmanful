@@ -152,8 +152,8 @@
 
 <div align="center" style="display:flex; flex-direction:row;">
   <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nangmanful&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nangmanful&layout=compact&langs_count=8&hide_border=true&card_width=320&count_private=true&theme=transparent" />
+username=Nangmanful&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" />
+
   </a>
 </div>
 

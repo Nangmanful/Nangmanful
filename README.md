@@ -150,12 +150,7 @@
 
 <br>
 
-<div align="center" style="display:flex; flex-direction:row;">
-  <a>
-username=Nangmanful&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&rank_icon=github&custom_title=Git%20Stats&theme=transparent" />
-
-  </a>
-</div>
+<!-- Git Stats 제거됨 -->
 
 <br>
 

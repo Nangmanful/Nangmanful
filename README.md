@@ -148,7 +148,6 @@
 
 <div align="center">
 
-
 <br>
 
 <div align="center" style="display:flex; flex-direction:row;">
@@ -165,5 +164,4 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&&color=6994CDEE&height=180&section=footer&fontSize=50&animation=fadeIn&)
-
 

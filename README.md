@@ -65,10 +65,8 @@
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
 <br>
 

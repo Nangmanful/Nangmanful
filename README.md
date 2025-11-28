@@ -29,7 +29,7 @@
 
 🎓 **Background**  
 &nbsp;&nbsp;&nbsp;&nbsp;• DGIST Computer Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;• AI-Native Developer 지향
+&nbsp;&nbsp;&nbsp;&nbsp;• AI, BE
 
 💻️ **Position - AI Service / Multi-Agent / Backend / Mobile**  
 &nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계  

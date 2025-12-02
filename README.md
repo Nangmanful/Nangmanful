@@ -123,6 +123,7 @@
 
 ### 🔹 **DGIST 2024 UGRP Size Aware VTON**
 &nbsp;&nbsp;&nbsp;&nbsp;• SA VTON(사이즈 조절 VTON) 개발  
+&nbsp;&nbsp;&nbsp;&nbsp;• Diffusion 모델 finetuning
 &nbsp;&nbsp;&nbsp;&nbsp;• Warping module 개발, Input Layer 수정
 
 </div>

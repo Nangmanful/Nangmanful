@@ -44,7 +44,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Backend & Infra (Docker / Linux / DB)
 
 📒 **DEV Log (개발 기록)**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Notion 정리 중  
 &nbsp;&nbsp;&nbsp;&nbsp;• Velog  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@nangman_ful/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />

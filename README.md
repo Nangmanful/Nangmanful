@@ -31,11 +31,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• DGIST Computer Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;• AI, BE
 
-💻️ **Position - AI Service / Multi-Agent / Backend / Mobile**  
+💻️ **Position - AI Service / Backend**  
 &nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계  
 &nbsp;&nbsp;&nbsp;&nbsp;• LangGraph 멀티에이전트 파이프라인 개발  
 &nbsp;&nbsp;&nbsp;&nbsp;• FastAPI / Spring Boot 기반 REST API  
-&nbsp;&nbsp;&nbsp;&nbsp;• React Native / Android 개발
 
 💡 **Interest**  
 &nbsp;&nbsp;&nbsp;&nbsp;• 멀티에이전트 아키텍처  

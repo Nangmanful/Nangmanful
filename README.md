@@ -29,7 +29,7 @@
 
 🎓 **Background**  
 &nbsp;&nbsp;&nbsp;&nbsp;• DGIST Computer Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;• AI, BE
+&nbsp;&nbsp;&nbsp;&nbsp;• SKALA 2기
 
 💻️ **Position - AI Service / Backend**  
 &nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계  
@@ -37,9 +37,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• FastAPI / Spring Boot 기반 REST API  
 
 💡 **Interest**  
-&nbsp;&nbsp;&nbsp;&nbsp;• 멀티에이전트 아키텍처  
-&nbsp;&nbsp;&nbsp;&nbsp;• 기후 리스크 모델링 & 데이터 처리  
-&nbsp;&nbsp;&nbsp;&nbsp;• Android / Kotlin  
+&nbsp;&nbsp;&nbsp;&nbsp;• AI Agent
+&nbsp;&nbsp;&nbsp;&nbsp;• AI Engineering
 &nbsp;&nbsp;&nbsp;&nbsp;• Backend & Infra (Docker / Linux / DB)
 
 📒 **DEV Log (개발 기록)**  

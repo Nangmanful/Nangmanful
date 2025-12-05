@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• SKALA 2기
 
 💻️ **Position - AI Service / Backend**  
-&nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계  
+&nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계
 &nbsp;&nbsp;&nbsp;&nbsp;• LangGraph 멀티에이전트 파이프라인 개발  
 &nbsp;&nbsp;&nbsp;&nbsp;• FastAPI / Spring Boot 기반 REST API  
 

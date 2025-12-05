@@ -37,9 +37,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• FastAPI / Spring Boot 기반 REST API  
 
 💡 **Interest**  
-&nbsp;&nbsp;&nbsp;&nbsp;• AI Agent
-&nbsp;&nbsp;&nbsp;&nbsp;• AI Engineering
-&nbsp;&nbsp;&nbsp;&nbsp;• Backend & Infra (Docker / Linux / DB)
+&nbsp;&nbsp;&nbsp;&nbsp;• AI Agent   
+&nbsp;&nbsp;&nbsp;&nbsp;• AI Engineering   
+&nbsp;&nbsp;&nbsp;&nbsp;• Backend & Infra (Docker / Linux / DB)  
 
 📒 **DEV Log (개발 기록)**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Velog  

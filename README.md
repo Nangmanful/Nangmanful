@@ -112,12 +112,7 @@
 ### 🔹 **DGLife App (React Native + Spring Boot)**
 &nbsp;&nbsp;&nbsp;&nbsp;• JWT 로그인/회원가입 플로우 구현  
 &nbsp;&nbsp;&nbsp;&nbsp;• Android UI/UX 구조 설계  
-&nbsp;&nbsp;&nbsp;&nbsp;• 백엔드 연동 및 토큰 관리  
-
-### 🔹 **FireEnv – Multi-Agent RL Environment**
-&nbsp;&nbsp;&nbsp;&nbsp;• PettingZoo ParallelEnv로 멀티에이전트 전환  
-&nbsp;&nbsp;&nbsp;&nbsp;• reward/observation/step 로직 직접 수정  
-&nbsp;&nbsp;&nbsp;&nbsp;• RLlib PPO 학습 및 checkpoint 복구  
+&nbsp;&nbsp;&nbsp;&nbsp;• 백엔드 연동 및 토큰 관리   
 
 ### 🔹 **DGIST 2024 UGRP Size Aware VTON**
 &nbsp;&nbsp;&nbsp;&nbsp;• SA VTON(사이즈 조절 VTON) 개발  

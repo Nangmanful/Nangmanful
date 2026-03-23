@@ -53,7 +53,6 @@ Spring Boot 기반 백엔드와 AI 기능 연동 구조를 설계하고, 실제 
 ### AI / LLM
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 <br/>
 

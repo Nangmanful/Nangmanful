@@ -44,13 +44,11 @@ Spring Boot 기반 백엔드와 AI 기능 연동 구조를 설계하고, 실제 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white)
 
 ### Database & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### AI / LLM
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white)

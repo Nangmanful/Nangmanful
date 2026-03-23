@@ -1,137 +1,111 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=180&section=header&text=Changgyu%20Kim&fontSize=42&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&&&fontAlignY=20&height=100&lines=Welcome+to+Nangmanful's+GitHub!%20%20👋)](https://git.io/typing-svg)
+# Backend & AI Developer
 
----
+서비스의 요구사항을 API, 데이터 흐름, 시스템 구조로 바꾸는 백엔드 개발자 김창규입니다.  
+Spring Boot 기반 백엔드와 AI 기능 연동 구조를 설계하고, 실제 서비스로 연결하는 과정에 관심이 많습니다.
 
-# 🙍‍♂️ Introduce
+<br/>
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h2 style="margin: 0;">
-        낭만 가득한 인생,<br/>개발자 김창규입니다.
-      </h2>
-      <p style="margin: 6px 0 0 0; line-height: 1.4;">
-        DGIST 20학번 컴퓨터공학 트랙<br/>
-        SKALA 2기 이수<br/>
-      </p>
-    </td>
-    <td valign="top" align="right" width="150">
-      <img src="3616.jpeg" alt="profile" width="120" />
-    </td>
-  </tr>
-</table>
+## About Me
 
-<br>
+- DGIST Computer Engineering
+- SKALA 2기 수료
+- 관심 분야: Backend, API Design, AI-powered Service, Infra
+- 기록: [Velog](https://velog.io/@nangman_ful/posts)
+- 연락처: 89606590659@naver.com
 
-<div align="left">
+<br/>
 
-🎓 **Background**  
-&nbsp;&nbsp;&nbsp;&nbsp;• DGIST Computer Engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;• SKALA 2기
+## Focus
 
-💻️ **Position - AI Service / Backend**  
-&nbsp;&nbsp;&nbsp;&nbsp;• LLM 기반 서비스 설계  
-&nbsp;&nbsp;&nbsp;&nbsp;• LangGraph 멀티에이전트 파이프라인 개발  
-&nbsp;&nbsp;&nbsp;&nbsp;• FastAPI / Spring Boot 기반 REST API  
+- **Backend Development**  
+  Spring Boot / FastAPI 기반 REST API 설계 및 구현
 
-💡 **Interest**  
-&nbsp;&nbsp;&nbsp;&nbsp;• AI Agent   
-&nbsp;&nbsp;&nbsp;&nbsp;• AI Engineering   
-&nbsp;&nbsp;&nbsp;&nbsp;• Backend & Infra (Docker / Linux / DB)  
+- **Service Architecture**  
+  역할 분리, 비동기 처리, 시스템 간 연동 구조 설계
 
-📒 **DEV Log (개발 기록)**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Velog  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@nangman_ful/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-</a>
-<br>
+- **AI-powered Products**  
+  LLM / LangGraph 기반 기능을 실제 서비스 흐름 안에 연결
 
-📞 **Contact**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Email  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:89606590659@naver.com">
-<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-</a>
+- **Infra & Delivery**  
+  Docker, Linux, DB 기반의 개발 및 배포 환경 구성
 
-</div>
+<br/>
 
-<br>
+## Tech Stack
 
----
+### Languages
+![Java](https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-## 🍀 Tech Stack
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white)
 
-<div align="left">
+### Database & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-<br>
+### AI / LLM
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
-<!-- Frameworks / Backend -->
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
-<br>
+<br/>
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-<br>
+## Featured Projects
 
-<!-- Infra -->
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-<br>
+### 1. Polaris - Climate Risk Analysis Platform
+- **Role**: Backend Part Lead
+- **What I built**:
+  - Spring Boot API server 설계 및 구현
+  - FastAPI AI 서버 / ModelOps 서버 연동 구조 설계
+  - 분석 요청, 결과 저장·조회, 리포트 생성 흐름 연결
+- **Why it mattered**:
+  - 계산량이 큰 분석 로직과 사용자 서비스 흐름을 분리해 확장성과 운영성을 높이는 구조를 고민했습니다.
 
-<!-- AI / LLM -->
-<img src="https://img.shields.io/badge/LangGraph-000000?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/LLM-000000?logo=openai&logoColor=white">
+### 2. DGLife App
+- **Role**: Full-stack contributor
+- **What I built**:
+  - JWT 로그인/회원가입 API 연동
+  - 사용자 인증 상태 유지 및 토큰 관리 흐름 구현
+  - React Native 앱과 백엔드 연결
+- **Focus**:
+  - 인증/인가 흐름과 클라이언트-서버 연동 구조를 직접 다뤘습니다.
 
-</div>
+### 3. UGRP Size-Aware VTON
+- **Role**: Research / Implementation
+- **What I built**:
+  - Diffusion 기반 VTON 모델 개선
+  - Warping module 개발 및 input layer 수정
+- **Outcome**:
+  - DGIST 2024 UGRP 우수상
 
----
+<br/>
 
-## 📚 Experience
+## What I’m Working On
 
-<div align="left">
+- Spring Boot 기반 서비스 백엔드 설계
+- AI Agent 기능의 서비스 통합 구조 실험
+- Docker 기반 배포 환경 및 운영 구조 개선
+- API / DB 설계를 중심으로 한 제품 개발 경험 확장
 
-### 🔹 **ON-DO / Polaris – Multi-Agent Climate Risk Platform**
-&nbsp;&nbsp;&nbsp;&nbsp;• LangGraph 기반 Hazard / Exposure / Vulnerability 파이프라인 설계  
-&nbsp;&nbsp;&nbsp;&nbsp;• KMA / ERA5 / CMIP6 등 기후 데이터 처리  
-&nbsp;&nbsp;&nbsp;&nbsp;• AAL, damage rate 등 물리적 리스크 모델링  
-&nbsp;&nbsp;&nbsp;&nbsp;• FastAPI 백엔드 구축 및 Docker 배포  
+<br/>
 
-### 🔹 **AI Marketing Assistant**
-&nbsp;&nbsp;&nbsp;&nbsp;• 소상공인 대상 자동 콘텐츠 생성 에이전트 개발  
-&nbsp;&nbsp;&nbsp;&nbsp;• TrendAgent / GuardrailAgent / ContentAgent 구조  
-&nbsp;&nbsp;&nbsp;&nbsp;• YouTube · SNS 트렌드 기반 마케팅 자동화  
+## Highlights
 
-### 🔹 **DGLife App (React Native + Spring Boot)**
-&nbsp;&nbsp;&nbsp;&nbsp;• JWT 로그인/회원가입 플로우 구현  
-&nbsp;&nbsp;&nbsp;&nbsp;• Android UI/UX 구조 설계  
-&nbsp;&nbsp;&nbsp;&nbsp;• 백엔드 연동 및 토큰 관리   
+- 기능 구현보다 **서비스 흐름과 시스템 구조 설계**를 중요하게 생각합니다.
+- AI를 독립 기능이 아니라 **실제 제품 안에 연결되는 기능**으로 다루는 데 관심이 많습니다.
+- 요구사항을 빠르게 이해하고, API / 데이터 모델 / 서버 역할로 나누어 구현하는 방식을 선호합니다.
 
-### 🔹 **DGIST 2024 UGRP Size Aware VTON**
-&nbsp;&nbsp;&nbsp;&nbsp;• SA VTON(사이즈 조절 VTON) 개발  
-&nbsp;&nbsp;&nbsp;&nbsp;• Diffusion 모델 Fine-Tuning <br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Warping module 개발, Input Layer 수정
+<br/>
 
-</div>
+## Awards
 
-<br>
-
----
-
-## 🏆 Awards
-
-<div align="left">
-
-- DGIST 2024 UGRP 우수상
-
-</div>
-
-<br>
-
+- **DGIST 2024 UGRP 우수상** - Size-aware Virtual Try-On 연구 프로젝트

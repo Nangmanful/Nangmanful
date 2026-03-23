@@ -67,7 +67,15 @@ Spring Boot 기반 백엔드와 AI 기능 연동 구조를 설계하고, 실제 
 - **Why it mattered**:
   - 계산량이 큰 분석 로직과 사용자 서비스 흐름을 분리해 확장성과 운영성을 높이는 구조를 고민했습니다.
 
-### 2. DGLife App
+### 2. UGRP Size-Aware VTON
+- **Role**: Research / Implementation
+- **What I built**:
+  - Diffusion 기반 VTON 모델 개선
+  - Warping module 개발 및 input layer 수정
+- **Outcome**:
+  - DGIST 2024 UGRP 우수상
+
+### 3. DGLife App
 - **Role**: Full-stack contributor
 - **What I built**:
   - JWT 로그인/회원가입 API 연동
@@ -75,14 +83,6 @@ Spring Boot 기반 백엔드와 AI 기능 연동 구조를 설계하고, 실제 
   - React Native 앱과 백엔드 연결
 - **Focus**:
   - 인증/인가 흐름과 클라이언트-서버 연동 구조를 직접 다뤘습니다.
-
-### 3. UGRP Size-Aware VTON
-- **Role**: Research / Implementation
-- **What I built**:
-  - Diffusion 기반 VTON 모델 개선
-  - Warping module 개발 및 input layer 수정
-- **Outcome**:
-  - DGIST 2024 UGRP 우수상
 
 <br/>
 

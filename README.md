@@ -6,7 +6,7 @@
 
 - DGIST Computer Engineering
 - SKALA 2기 수료
-- 관심 분야: Backend, API Design, AI-powered Service, Infra
+- 관심 분야: Backend, AI
 - 기록: [Velog](https://velog.io/@nangman_ful/posts)
 - 연락처: 89606590659@naver.com
 

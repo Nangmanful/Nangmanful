@@ -12,16 +12,6 @@
 
 <br/>
 
-## Focus
-
-- **Backend Development**  
-  Spring Boot / FastAPI 기반 REST API 설계 및 구현
-
-- **AI-powered Products**  
-  LangGraph 기반 서비스 구현
-
-<br/>
-
 ## Tech Stack
 
 ### Languages

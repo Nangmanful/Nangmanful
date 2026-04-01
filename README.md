@@ -51,8 +51,6 @@
   - Spring Boot API server 설계 및 구현
   - FastAPI AI 서버 / ModelOps 서버 연동 구조 설계
   - 분석 요청, 결과 저장·조회, 리포트 생성 흐름 연결
-- **Why it mattered**:
-  - 계산량이 큰 분석 로직과 사용자 서비스 흐름을 분리해 확장성과 운영성을 높이는 구조를 고민했습니다.
 
 ### 2. UGRP Size-Aware VTON
 - **Role**: Research / Implementation
@@ -68,8 +66,6 @@
   - JWT 로그인/회원가입 API 연동
   - 사용자 인증 상태 유지 및 토큰 관리 흐름 구현
   - React Native 앱과 백엔드 연결
-- **Focus**:
-  - 인증/인가 흐름과 클라이언트-서버 연동 구조를 직접 다뤘습니다.
 
 <br/>
 

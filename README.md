@@ -1,5 +1,3 @@
-<br/>
-
 ## About Me
 
 - DGIST Computer Engineering

@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=180&section=header&text=Changgyu%20Kim&fontSize=42&fontColor=ffffff)
-
 <br/>
 
 ## About Me

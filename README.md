@@ -1,6 +1,6 @@
 ## About Me
 
-- DGIST Computer Engineering
+- DGIST 7기 Computer Engineering Track 
 - SKALA 2기
 - AI SW Maestro 17기
 - 관심 분야: Backend, AI
